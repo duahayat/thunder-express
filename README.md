@@ -1,13 +1,8 @@
-# Thunder Express Trucking LLC
+# Thunder Express Trucking LLC — Earlier Version
 
-A responsive website developed for Thunder Express Trucking LLC, showcasing its transportation and trucking services.
+This repository contains an earlier version of the Thunder Express Trucking LLC website, developed using React, Vite, and Tailwind CSS.
 
-## 🌐 Live Website
-
-[View Live Website](https://thunder-express.vercel.app/)
-
-## 🛠️ Technologies Used
-
+## Technologies Used
 - React.js
 - JavaScript
 - Vite
@@ -15,19 +10,14 @@ A responsive website developed for Thunder Express Trucking LLC, showcasing its 
 - HTML5
 - CSS3
 
-## 📌 Project Overview
+## Latest Website
 
-This project involved developing a responsive web interface for a trucking and transportation business. The website focuses on presenting business services through a clean layout and user-friendly navigation.
+The updated version of the website is available here:
 
-## ✨ Key Highlights
+https://thunderexpresstruckingllc.com/
 
-- Responsive website layout
-- Mobile-friendly navigation
-- Component-based React development
-- Styling with Tailwind CSS
+## Developer
 
-## 👩‍💻 Developer
-
-**Dua Hayat**
+Dua Hayat
 
 [GitHub Profile](https://github.com/duahayat)
